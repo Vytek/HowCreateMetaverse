@@ -9,3 +9,7 @@ Awesome and bookmark resources to how create a Metaverse
 **Networking**
 
 - [Coherence.io](https://youtu.be/_5Lv6ck88do)
+
+**VR Course**
+
+- [VR Creator Academy](https://vrcreatoracademy.com/)
