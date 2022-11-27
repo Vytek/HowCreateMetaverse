@@ -9,6 +9,7 @@ Awesome and bookmark resources to how create a Metaverse
 **Networking**
 
 - [Coherence.io](https://youtu.be/_5Lv6ck88do)
+- [VR Multiplayer Avatar Test UltimateXR & Photon Network](https://www.youtube.com/watch?v=M7ZuRVbCkG4)
 
 **VR Course**
 
